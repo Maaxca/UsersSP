@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Users SP</string>
+    <string name="description_userPhoto">Imagen de usuario</string>
+    <string name="sp_first_time">first_time</string>
+    <string name="dialog_title">Registro de Usuario</string>
+    <string name="dialog_confirm">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="helper_username">Obligatorio</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="sp_username">Username</string>
+    <string name="regisiter_success">Usuario Registrado</string>
+    <string name="invitado">Invitado</string>
+</resources>
